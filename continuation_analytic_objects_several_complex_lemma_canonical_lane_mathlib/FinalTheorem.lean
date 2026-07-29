@@ -1,0 +1,9 @@
+import continuation_analytic_objects_several_complex_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace continuation_analytic_objects_several_complex_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end continuation_analytic_objects_several_complex_lemma_canonical_lane_mathlib
+end HautevilleHouse
